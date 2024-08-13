@@ -15,7 +15,7 @@ pub mod cs2_dumper {
             pub const dwGlobalVars: usize = 0x17C35E0;
             pub const dwGlowManager: usize = 0x19C11A0;
             pub const dwLocalPlayerController: usize = 0x19B3DE8;
-            pub const dwLocalPlayerPawn: usize = 0x17CF698;
+            pub const dwLocalPlayerPawn: usize = 0x1;
             pub const dwPlantedC4: usize = 0x19CC058;
             pub const dwPrediction: usize = 0x17CF550;
             pub const dwSensitivity: usize = 0x19C2768;
